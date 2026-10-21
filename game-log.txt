@@ -1,0 +1,24 @@
+
+Guess the number
+Guess a whole number between 1 and 10
+you have 3 attempts!
+Attempt 1/3 Enter your guess: 3
+Too low!
+Attempt 2/3 Enter your guess: 5
+Too high!
+Attempt 3/3 Enter your guess: 7
+Too high!
+GAME OVER!
+The secret number was 4
+
+
+Guess the number
+Guess a whole number between 1 and 10
+you have 3 attempts!
+Attempt 1/3 Enter your guess: 1
+Too low!
+Attempt 2/3 Enter your guess: 3
+Too low!
+Attempt 3/3 Enter your guess: 7
+Correct!, you guessed the number! 7
+
