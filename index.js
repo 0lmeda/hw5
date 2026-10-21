@@ -1,10 +1,10 @@
 import chalk from "chalk";
 import prompts from "prompts";
-
+import { randomInt } from "crypto";
 const maxAttempts=3;
 
-const crypto = require('crypto');
-const num = crypto.randomInt(1,10);
+
+const num = randomInt(1,11);
 
 console.log(chalk.magenta.bold("Guess the number"));
 console.log(chalk.white("Guess a whole number between 1 and 10"));
